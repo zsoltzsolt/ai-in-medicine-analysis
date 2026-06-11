@@ -1,0 +1,428 @@
+{
+  "method_terms": {
+    "Expert systems": [
+      "expert system",
+      "expert systems",
+      "medical expert system",
+      "medical expert systems"
+    ],
+    "Rule-based AI": [
+      "rule-based",
+      "rule based",
+      "rule-based system",
+      "rule based system",
+      "rule-based systems",
+      "rule based systems",
+      "production rules",
+      "if-then rules"
+    ],
+    "Knowledge-based systems": [
+      "knowledge-based system",
+      "knowledge based system",
+      "knowledge-based systems",
+      "knowledge based systems",
+      "knowledge base",
+      "knowledge bases"
+    ],
+    "Inference engine": [
+      "inference engine",
+      "inference engines"
+    ],
+    "Fuzzy logic": [
+      "fuzzy logic",
+      "fuzzy inference",
+      "fuzzy system",
+      "fuzzy systems"
+    ],
+    "Ontologies": [
+      "ontology",
+      "ontologies",
+      "medical ontology",
+      "biomedical ontology"
+    ],
+    "Clinical decision support": [
+      "clinical decision support",
+      "clinical decision support system",
+      "clinical decision support systems",
+      "decision support system",
+      "decision support systems"
+    ],
+    "Machine learning": [
+      "machine learning"
+    ],
+    "Supervised learning": [
+      "supervised learning"
+    ],
+    "Unsupervised learning": [
+      "unsupervised learning"
+    ],
+    "Semi-supervised learning": [
+      "semi-supervised learning",
+      "semi supervised learning"
+    ],
+    "Support vector machine": [
+      "support vector machine",
+      "support vector machines",
+      "support vector classifier",
+      "svm",
+      "svms"
+    ],
+    "Random forest": [
+      "random forest",
+      "random forests"
+    ],
+    "Decision tree": [
+      "decision tree",
+      "decision trees",
+      "classification tree",
+      "regression tree"
+    ],
+    "Logistic regression": [
+      "logistic regression"
+    ],
+    "Linear regression": [
+      "linear regression"
+    ],
+    "Naive Bayes": [
+      "naive bayes",
+      "naïve bayes"
+    ],
+    "Bayesian network": [
+      "bayesian network",
+      "bayesian networks",
+      "bayesian classifier",
+      "bayesian classifiers"
+    ],
+    "k-nearest neighbors": [
+      "k-nearest neighbor",
+      "k-nearest neighbors",
+      "nearest neighbor",
+      "nearest neighbors",
+      "knn",
+      "k-nn"
+    ],
+    "Gradient boosting": [
+      "gradient boosting",
+      "gradient boosting machine",
+      "gradient boosting machines",
+      "gbm",
+      "xgboost",
+      "adaboost",
+      "lightgbm",
+      "catboost"
+    ],
+    "Ensemble learning": [
+      "ensemble learning",
+      "ensemble method",
+      "ensemble methods",
+      "ensemble model",
+      "ensemble models"
+    ],
+    "Clustering": [
+      "clustering",
+      "cluster analysis",
+      "k-means",
+      "k means",
+      "hierarchical clustering"
+    ],
+    "Dimensionality reduction": [
+      "dimensionality reduction",
+      "principal component analysis",
+      "pca",
+      "t-sne",
+      "tsne",
+      "umap"
+    ],
+    "Hidden Markov models": [
+      "hidden markov model",
+      "hidden markov models",
+      "hmm",
+      "hmms"
+    ],
+    "Genetic algorithms": [
+      "genetic algorithm",
+      "genetic algorithms",
+      "evolutionary algorithm",
+      "evolutionary algorithms"
+    ],
+    "Multilayer perceptron": [
+      "multilayer perceptron",
+      "multi-layer perceptron",
+      "mlp",
+      "mlps"
+    ],
+    "Deep learning": [
+      "deep learning"
+    ],
+    "Autoencoder": [
+      "autoencoder",
+      "autoencoders",
+      "denoising autoencoder",
+      "variational autoencoder",
+      "vae"
+    ],
+    "Deep belief networks": [
+      "deep belief network",
+      "deep belief networks",
+      "dbn",
+      "dbns"
+    ],
+    "Recurrent neural networks": [
+      "recurrent neural network",
+      "recurrent neural networks",
+      "rnn",
+      "rnns"
+    ],
+    "LSTM": [
+      "long short-term memory",
+      "long short term memory",
+      "lstm",
+      "lstms"
+    ],
+    "GRU": [
+      "gated recurrent unit",
+      "gated recurrent units",
+      "gru",
+      "grus"
+    ],
+    "GAN": [
+      "generative adversarial network",
+      "generative adversarial networks",
+      "gan",
+      "gans"
+    ],
+    "Reinforcement learning": [
+      "reinforcement learning",
+      "deep reinforcement learning",
+      "q-learning",
+      "q learning"
+    ],
+    "Transfer learning": [
+      "transfer learning"
+    ],
+    "Self-supervised learning": [
+      "self-supervised learning",
+      "self supervised learning"
+    ],
+    "Contrastive learning": [
+      "contrastive learning"
+    ],
+    "Federated learning": [
+      "federated learning"
+    ],
+    "CNN": [
+      "convolutional neural network",
+      "convolutional neural networks",
+      "cnn",
+      "cnns",
+      "deep convolutional neural network",
+      "deep convolutional neural networks"
+    ],
+    "Fully convolutional network": [
+      "fully convolutional network",
+      "fully convolutional networks",
+      "fcn",
+      "fcns"
+    ],
+    "U-Net": [
+      "u-net",
+      "unet",
+      "u-net++",
+      "unet++",
+      "nnunet",
+      "nn-u-net"
+    ],
+    "ResNet": [
+      "resnet",
+      "resnet-18",
+      "resnet-50",
+      "resnet50",
+      "resnet101"
+    ],
+    "DenseNet": [
+      "densenet",
+      "dense net"
+    ],
+    "VGG": [
+      "vgg",
+      "vgg16",
+      "vgg19"
+    ],
+    "AlexNet": [
+      "alexnet"
+    ],
+    "Inception": [
+      "inception",
+      "googlenet"
+    ],
+    "EfficientNet": [
+      "efficientnet",
+      "efficient net"
+    ],
+    "YOLO": [
+      "yolo",
+      "yolov3",
+      "yolov4",
+      "yolov5",
+      "yolov8"
+    ],
+    "R-CNN": [
+      "r-cnn",
+      "rcnn",
+      "fast r-cnn",
+      "faster r-cnn",
+      "mask r-cnn",
+      "mask rcnn"
+    ],
+    "Segmentation models": [
+      "image segmentation",
+      "medical image segmentation",
+      "semantic segmentation",
+      "instance segmentation"
+    ],
+    "Transformer": [
+      "transformer",
+      "transformers",
+      "transformer architecture",
+      "transformer model",
+      "transformer models"
+    ],
+    "Attention mechanism": [
+      "attention mechanism",
+      "attention mechanisms",
+      "attention model",
+      "attention models"
+    ],
+    "Self-attention": [
+      "self-attention",
+      "self attention"
+    ],
+    "Multi-head attention": [
+      "multi-head attention",
+      "multi head attention"
+    ],
+    "BERT": [
+      "bert",
+      "biobert",
+      "clinicalbert",
+      "pubmedbert",
+      "bluebert",
+      "scibert",
+      "medbert"
+    ],
+    "Vision Transformer": [
+      "vision transformer",
+      "vision transformers",
+      "vit",
+      "vits"
+    ],
+    "Swin Transformer": [
+      "swin transformer",
+      "swin transformers"
+    ],
+    "TransUNet": [
+      "transunet",
+      "trans-unet"
+    ],
+    "Large language models": [
+      "large language model",
+      "large language models",
+      "llm",
+      "llms"
+    ],
+    "GPT": [
+      "gpt",
+      "gpt-2",
+      "gpt-3",
+      "gpt-4",
+      "gpt-4o",
+      "chatgpt",
+      "openai"
+    ],
+    "Med-PaLM": [
+      "med-palm",
+      "medpalm",
+      "med-palm 2",
+      "medpalm 2"
+    ],
+    "LLaMA": [
+      "llama",
+      "llama 2",
+      "llama 3"
+    ],
+    "Gemini": [
+      "gemini"
+    ],
+    "Claude": [
+      "claude"
+    ],
+    "Generative AI": [
+      "generative ai",
+      "generative artificial intelligence"
+    ],
+    "Foundation models": [
+      "foundation model",
+      "foundation models",
+      "medical foundation model",
+      "biomedical foundation model"
+    ],
+    "Vision-language models": [
+      "vision-language model",
+      "vision-language models",
+      "vision language model",
+      "vision language models",
+      "vlm",
+      "vlms"
+    ],
+    "Multimodal AI": [
+      "multimodal ai",
+      "multimodal artificial intelligence",
+      "multimodal learning",
+      "multimodal model",
+      "multimodal models",
+      "multimodal large language model",
+      "multimodal large language models"
+    ],
+    "CLIP": [
+      "clip",
+      "medclip",
+      "biomedclip"
+    ],
+    "LLaVA": [
+      "llava",
+      "llava-med",
+      "llava med"
+    ],
+    "BLIP": [
+      "blip",
+      "blip-2"
+    ],
+    "Visual question answering": [
+      "visual question answering",
+      "medical visual question answering",
+      "vqa"
+    ],
+    "Segment Anything": [
+      "segment anything",
+      "segment anything model",
+      "sam",
+      "medsam"
+    ],
+    "Diffusion models": [
+      "diffusion model",
+      "diffusion models",
+      "stable diffusion",
+      "denoising diffusion"
+    ],
+    "Prompt engineering": [
+      "prompt engineering",
+      "prompting",
+      "chain-of-thought"
+    ],
+    "Retrieval-augmented generation": [
+      "retrieval-augmented generation",
+      "retrieval augmented generation",
+      "rag"
+    ]
+  }
+}

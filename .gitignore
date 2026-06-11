@@ -1,0 +1,15 @@
+.DS_Store
+.env/
+venv/
+.venv/
+.ipynb_checkpoints/
+data/
+figures/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,3 @@
+{
+  "search_query_keywords": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"expert system\" OR \"expert systems\" OR \"convolutional neural network\" OR CNN OR \"neural network\" OR transformer OR transformers OR \"large language model\" OR LLM OR \"foundation model\" OR \"generative AI\") AND (diagnosis OR diagnostic OR \"clinical decision support\" OR \"medical imaging\" OR radiology OR pathology OR oncology OR cardiology OR \"electronic health record\" OR EHR OR \"disease detection\" OR \"treatment recommendation\" OR \"drug discovery\" OR biomedical)"
+}

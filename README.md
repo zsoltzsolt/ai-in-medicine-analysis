@@ -1,4 +1,4 @@
-# A Visual Analysis of Artificial Intelligence in Medicine
+# A Visual Analysis of Artificial Intelligence in Healthcare
 
 The goal of the project is to analyze how artificial intelligence in medicine has evolved over time using bibliographic metadata from OpenAlex. 
 
